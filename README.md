@@ -10,7 +10,7 @@ At the end of this project, We were able to solve these questions:
 * What is a queue, and when to use it
 * What are the common implementations of stacks and queues
 * What are the most common use cases of stacks and queues
-* What is the proper way to use global variables
+* What is the proper way to use global variable
 
 ## Tasks :heavy_check_mark:
 
